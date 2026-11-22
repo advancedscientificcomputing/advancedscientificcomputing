@@ -13,6 +13,13 @@
     </a>
 </p>
 
+<br><br><br><br>
+
+> ---
+>
+> Sam Rohan is the Founder and Principal Architect of Advanced Scientific Computing Research and Development. He leads the work where science, engineering, and technology meet as one integrated system. His leadership covers advanced scientific computing, mechatronics, DevSecOps, and bio-mechanical intelligence. The focus is practical and deployment ready. Models are tested against reality, machines are built to be precise and diagnosable, security is built into every step of delivery, and humans keep final judgment and control. From the command center in India, with deployments active globally, he guides research from idea to validated model, from model to working system, and from system to real world impact. The standard is simple. Test before we build. Predict before we commit. Improve after we deploy.
+>
+> ---
 
 <br><br><br><br>
 
